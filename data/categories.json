@@ -3,7 +3,7 @@
       "type": "category",
       "title": "data type",
       "description": "data type",
-      "childrendescription": "data type:",
+      "childrenDescription": "data type:",
       "entries": [
         {
           "type": "category-entry",
@@ -29,7 +29,7 @@
         "type": "category",
         "title": "visualization technique",
         "description": "visualization technique",
-        "childrendescription": "visualization technique:",
+        "childrenDescription": "visualization technique:",
         "entries": [
           {
             "type": "category-entry",
@@ -73,7 +73,7 @@
         "type": "category",
         "title": "interactive analysis methods",
         "description": "interactive analysis methods",
-        "childrendescription": "interactive analysis methods:",
+        "childrenDescription": "interactive analysis methods:",
         "entries": [
           {
             "type": "category-entry",
@@ -105,7 +105,7 @@
         "type": "category",
         "title": "application areas",
         "description": "applications areas",
-        "childrendescription": "applications areas:",
+        "childrenDescription": "applications areas:",
         "entries": [
           {
             "type": "category-entry",
