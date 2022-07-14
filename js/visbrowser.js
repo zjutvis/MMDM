@@ -199,7 +199,7 @@ function displayEntryDetails(id) {
 	
 	//$("#entryDetailsThumbnail").attr("src", entry.thumb200.src);
 	// Since the large thumbnails are not preloaded anymore, load the thumbnail via URL
-	$("#entryDetailsThumbnail").attr("src", "thumbs200/" + id + ".png");
+	$("#entryDetailsThumbnail").attr("src", "thumbs250/" + id + ".png");
 	
 	$("#entryDetailsModal .entry-details-field").empty();
 	
@@ -371,7 +371,7 @@ function loadContent(){
 			
 			// Load thumbnails
 			d.thumb100 = new Image();
-			d.thumb100.src = "thumbs100/" + d.id + ".png";
+			d.thumb100.src = "thumbs150/" + d.id + ".png";
 		
 			// Sort category tags to keep the output order consistent
 			d.categories.sort(categoriesComparator);
