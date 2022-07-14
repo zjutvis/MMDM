@@ -256,7 +256,7 @@ function loadCategories(){
 		
 		incompleteCategories = [];
 		
-		stats = { description: "MPM Survey", children: [] };
+		stats = { description: "MMDM Survey", children: [] };
 		statsMap = {};
 		
 		var container = $("#categoriesList");
