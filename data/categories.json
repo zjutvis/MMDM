@@ -7,8 +7,8 @@
       "entries": [
         {
           "type": "category-entry",
-          "title": "tabular & text data",
-          "description": "tabular & text data",
+          "title": "tabular text data",
+          "description": "tabular text data",
           "content": "t&t"
         },
         {
@@ -19,8 +19,8 @@
         },
         {
           "type": "category-entry",
-          "title": "image & video data",
-          "description": "image & video data",
+          "title": "image video data",
+          "description": "image video data",
           "content": "i&v"
         }
       ]
