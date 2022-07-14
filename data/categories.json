@@ -1,0 +1,136 @@
+[
+    {
+      "type": "category",
+      "title": "Data Type",
+      "description": "Data Type",
+      "childrenDescription": "Data Type:",
+      "entries": [
+        {
+          "type": "category-entry",
+          "title": "Tabular text data",
+          "description": "Tabular & text data",
+          "content": "T&T"
+        },
+        {
+          "type": "category-entry",
+          "title": "Signal sensing  data",
+          "description": "Signal sensing  data",
+          "content": "SS"
+        },
+        {
+          "type": "category-entry",
+          "title": "Image & Video data",
+          "description": "Image & Video data",
+          "content": "I&V"
+        }
+      ]
+    },
+    {
+        "type": "category",
+        "title": "Visualization Technique",
+        "description": "Visualization Technique",
+        "childrenDescription": "Visualization Technique:",
+        "entries": [
+          {
+            "type": "category-entry",
+            "title": "sequence",
+            "description": "sequence",
+            "content": "sequence"
+          },
+          {
+            "type": "category-entry",
+            "title": "graph",
+            "description": "graph",
+            "content": "graph"
+          },
+          {
+            "type": "category-entry",
+            "title": "text",
+            "description": "text",
+            "content": "text"
+          },
+          {
+            "type": "category-entry",
+            "title": "chart",
+            "description": "chart",
+            "content": "chart"
+          },
+          {
+            "type": "category-entry",
+            "title": "glyph",
+            "description": "glyph",
+            "content": "glyph"
+          },
+          {
+            "type": "category-entry",
+            "title": "volume",
+            "description": "volume",
+            "content": "volume"
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "title": "Interactive Analysis Methods",
+        "description": "Interactive Analysis Methods",
+        "childrenDescription": "Interactive Analysis Methods:",
+        "entries": [
+          {
+            "type": "category-entry",
+            "title": "Tracking & Monitoring",
+            "description": "Tracking & Monitoring",
+            "content": "Tracking & Monitoring"
+          },
+          {
+            "type": "category-entry",
+            "title": "Exploration & Navigation",
+            "description": "Exploration & Navigation",
+            "content": "Exploration & Navigation"
+          },
+          {
+            "type": "category-entry",
+            "title": "Knowledge Externalization",
+            "description": "Knowledge Externalization",
+            "content": "Knowledge Externalization"
+          },
+          {
+            "type": "category-entry",
+            "title": "Refinement & Identification",
+            "description": "Refinement & Identification",
+            "content": "Refinement & Identification"
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "title": "Application Areas",
+        "description": "Applications Areas",
+        "childrenDescription": "Applications Areas:",
+        "entries": [
+          {
+            "type": "category-entry",
+            "title": "Design & Development",
+            "description": "Design & Development",
+            "content": "Design & Development"
+          },
+          {
+            "type": "category-entry",
+            "title": "Production & Testing",
+            "description": "Production & Testing",
+            "content": "Production & Testing"
+          },
+          {
+            "type": "category-entry",
+            "title": "Education & Training",
+            "description": "Education & Training",
+            "content": "Education & Training"
+          },
+          {
+            "type": "category-entry",
+            "title": "Analysis & Feedback",
+            "description": "Analysis & Feedback",
+            "content": "Analysis & Feedback"
+          }
+        ]
+      }
+  ]
