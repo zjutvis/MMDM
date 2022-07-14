@@ -77,14 +77,14 @@
         "entries": [
           {
             "type": "category-entry",
-            "title": "tracking & monitoring",
-            "description": "tracking & monitoring",
+            "title": "tracking monitoring",
+            "description": "tracking monitoring",
             "content": "tracking & monitoring"
           },
           {
             "type": "category-entry",
-            "title": "exploration & navigation",
-            "description": "exploration & navigation",
+            "title": "exploration navigation",
+            "description": "exploration navigation",
             "content": "exploration & navigation"
           },
           {
@@ -95,8 +95,8 @@
           },
           {
             "type": "category-entry",
-            "title": "refinement & identification",
-            "description": "refinement & identification",
+            "title": "refinement identification",
+            "description": "refinement identification",
             "content": "refinement & identification"
           }
         ]
@@ -109,26 +109,26 @@
         "entries": [
           {
             "type": "category-entry",
-            "title": "design & development",
-            "description": "design & development",
+            "title": "design development",
+            "description": "design development",
             "content": "design & development"
           },
           {
             "type": "category-entry",
-            "title": "production & testing",
-            "description": "production & testing",
+            "title": "production testing",
+            "description": "production testing",
             "content": "production & testing"
           },
           {
             "type": "category-entry",
-            "title": "education & training",
-            "description": "education & training",
+            "title": "education training",
+            "description": "education training",
             "content": "education & training"
           },
           {
             "type": "category-entry",
-            "title": "analysis & feedback",
-            "description": "analysis & feedback",
+            "title": "analysis feedback",
+            "description": "analysis feedback",
             "content": "analysis & feedback"
           }
         ]
