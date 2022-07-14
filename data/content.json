@@ -1,219 +1,219 @@
 [
   {
-    "id":"Zhou2018",
-    "title":"Visually enhanced situation awareness for complex manufacturing facility monitoring in smart factories",
+    "id":"zhou2018",
+    "title":"visually enhanced situation awareness for complex manufacturing facility monitoring in smart factories",
     "year":2019,
-    "categories":["Signal sensing data","sequence","chart","glyph","Tracking & Monitoring","Exploration & Navigation","Refinement & Identification","Industrial Production","Analysis & Feedback"]
+    "categories":["signal sensing data","sequence","chart","glyph","tracking & monitoring","exploration & navigation","refinement & identification","industrial production","analysis & feedback"]
   },
   {
     "id":"zhao2019visual",
-    "title":"A Visual Analysis Approach for Understanding Durability Test Data of Automotive Products",
+    "title":"a visual analysis approach for understanding durability test data of automotive products",
     "year":2017,
-    "categories":["Signal sensing data","sequence","chart","glyph","Tracking & Monitoring","Refinement & Identification","Industrial Production","Analysis & Feedback"]
+    "categories":["signal sensing data","sequence","chart","glyph","tracking & monitoring","refinement & identification","industrial production","analysis & feedback"]
   },
   {
     "id":"eirich2021irvine",
-    "title":"IRVINE: A Design Study on Analyzing Correlation Patterns of Electrical Engines",
+    "title":"irvine: a design study on analyzing correlation patterns of electrical engines",
     "year":2021,
-    "categories":["Signal sensing data","sequence","chart","glyph","Tracking & Monitoring","Exploration & Navigation","Knowledge Externalization","Refinement & Identification","Industrial Production","Design & Development","Analysis & Feedback"]
+    "categories":["signal sensing data","sequence","chart","glyph","tracking & monitoring","exploration & navigation","knowledge externalization","refinement & identification","industrial production","design & development","analysis & feedback"]
   },
   {
     "id":"cibulski2020paved",
-    "title":"PAVED: Pareto Front Visualization for Engineering Design",
+    "title":"paved: pareto front visualization for engineering design",
     "year":2020,
-    "categories":["Signal sensing data","sequence","chart","glyph","Exploration & Navigation","Knowledge Externalization","Refinement & Identification","Industrial Production","Design & Development","Analysis & Feedback"]
+    "categories":["signal sensing data","sequence","chart","glyph","exploration & navigation","knowledge externalization","refinement & identification","industrial production","design & development","analysis & feedback"]
   },
   {
     "id":"dutta2016situ",
-    "title":"In Situ Distribution Guided Analysis and Visualization of Transonic Jet Engine Simulations",
+    "title":"in situ distribution guided analysis and visualization of transonic jet engine simulations",
     "year":2017,
-    "categories":["Signal sensing data","sequence","chart","Exploration & Navigation","Knowledge Externalization","Refinement & Identification","Design & Development","Analysis & Feedback"]
+    "categories":["signal sensing data","sequence","chart","exploration & navigation","knowledge externalization","refinement & identification","design & development","analysis & feedback"]
   },
   {
     "id":"narechania2020safetylens",
-    "title":"SafetyLens: Visual Data Analysis of Functional Safety of Vehicles",
+    "title":"safetylens: visual data analysis of functional safety of vehicles",
     "year":2021,
-    "categories":["Signal sensing data","graph","text","chart","Exploration & Navigation","Knowledge Externalization","Refinement & Identification","Design & Development","Analysis & Feedback"]
+    "categories":["signal sensing data","graph","text","chart","exploration & navigation","knowledge externalization","refinement & identification","design & development","analysis & feedback"]
   },
   {
-    "id":"Zappulla2019",
-    "title":"Visualization of Steel Continuous Casting Including a New Integral Method for Post-Processing Temperature Data",
+    "id":"zappulla2019",
+    "title":"visualization of steel continuous casting including a new integral method for post-processing temperature data",
     "year":2019,
-    "categories":["Signal sensing data","volume","Knowledge Externalization","Industrial Production","Analysis & Feedback"]
+    "categories":["signal sensing data","volume","knowledge externalization","industrial production","analysis & feedback"]
   },
   {
-    "id":"Wang2022",
-    "title":"AFExplorer: Visual analysis and interactive selection of audio features",
+    "id":"wang2022",
+    "title":"afexplorer: visual analysis and interactive selection of audio features",
     "year":2022,
-    "categories":["Signal sensing data","chart","Tracking & Monitoring","Exploration & Navigation","Knowledge Externalization","Refinement & Identification","Design & Development","Analysis & Feedback"]
+    "categories":["signal sensing data","chart","tracking & monitoring","exploration & navigation","knowledge externalization","refinement & identification","design & development","analysis & feedback"]
   },
   {
-    "id":"Kagaya2017",
-    "title":"Using an Optical Motion Sensor for Visualization and Analysis of Maintenance Work on Semiconductor Manufacturing Equipment",
+    "id":"kagaya2017",
+    "title":"using an optical motion sensor for visualization and analysis of maintenance work on semiconductor manufacturing equipment",
     "year":2017,
-    "categories":["Signal sensing data","volume","Tracking & Monitoring","Analysis & Feedback"]
+    "categories":["signal sensing data","volume","tracking & monitoring","analysis & feedback"]
   },
   {
-    "id":"Suzuki2020",
-    "title":"Load path visualization and fiber trajectory optimization for additive manufacturing of composites",
+    "id":"suzuki2020",
+    "title":"load path visualization and fiber trajectory optimization for additive manufacturing of composites",
     "year":2020,
-    "categories":["Signal sensing data","volume","Knowledge Externalization","Refinement & Identification","Industrial Production","Analysis & Feedback"]
+    "categories":["signal sensing data","volume","knowledge externalization","refinement & identification","industrial production","analysis & feedback"]
   },
   {
     "id":"suschnigg2020exploration",
-    "title":"Exploration of Anomalies in Cyclic Multivariate Industrial Time Series Data for Condition Monitoring",
+    "title":"exploration of anomalies in cyclic multivariate industrial time series data for condition monitoring",
     "year":2020,
-    "categories":["Signal sensing data","sequence","text","volume","Tracking & Monitoring","Education & Training","Design & Development"]
+    "categories":["signal sensing data","sequence","text","volume","tracking & monitoring","education & training","design & development"]
   },
   {
     "id":"buttner2020augmented",
-    "title":"Augmented Reality Training for Industrial Assembly Work-Are Projection-based AR Assistive Systems an Appropriate Tool for Assembly Training?",
+    "title":"augmented reality training for industrial assembly work-are projection-based ar assistive systems an appropriate tool for assembly training?",
     "year":2020,
-    "categories":["Image & Video data","volume","Exploration & Navigation","volume","Exploration & Navigation","Education & Training"]
+    "categories":["image & video data","volume","exploration & navigation","volume","exploration & navigation","education & training"]
   },
   {
     "id":"hamid2014virtual",
-    "title":"Virtual reality applications in manufacturing system",
+    "title":"virtual reality applications in manufacturing system",
     "year":2014,
-    "categories":["Image & Video data","volume","Exploration & Navigation","Industrial Production","Education & Training"]
+    "categories":["image & video data","volume","exploration & navigation","industrial production","education & training"]
   },
   {
     "id":"amirkhanov2016visual",
-    "title":"Visual Analysis of Defects in Glass Fiber Reinforced Polymers for 4DCT Interrupted In situ Tests",
+    "title":"visual analysis of defects in glass fiber reinforced polymers for 4dct interrupted in situ tests",
     "year":2016,
-    "categories":["Image & Video data","volume","Exploration & Navigation","Knowledge Externalization","Refinement & Identification","Industrial Production","Design & Development","Analysis & Feedback"]
+    "categories":["image & video data","volume","exploration & navigation","knowledge externalization","refinement & identification","industrial production","design & development","analysis & feedback"]
   },
   {
-    "id":"Cirp2019",
-    "title":"Visualization Support for Design of Manufacturing Systems and Prototypes Lessons Learned from Two Case Studies ",
+    "id":"cirp2019",
+    "title":"visualization support for design of manufacturing systems and prototypes lessons learned from two case studies ",
     "year":2019,
-    "categories":["Image & Video data","volume","Tracking & Monitoring","Knowledge Externalization","Industrial Production","Design & Development","Analysis & Feedback"]
+    "categories":["image & video data","volume","tracking & monitoring","knowledge externalization","industrial production","design & development","analysis & feedback"]
   },
   {
-    "id":"Murithi2020",
-    "title":"Markerless cooperative augmented reality-based smart manufacturing double-check system: Case of safe PCBA inspection following automatic optical inspection",
+    "id":"murithi2020",
+    "title":"markerless cooperative augmented reality-based smart manufacturing double-check system: case of safe pcba inspection following automatic optical inspection",
     "year":2020,
-    "categories":["Image & Video data","volume","Exploration & Navigation","Knowledge Externalization","Refinement & Identification","Industrial Production","Analysis & Feedback"]
+    "categories":["image & video data","volume","exploration & navigation","knowledge externalization","refinement & identification","industrial production","analysis & feedback"]
   },
   {
     "id":"tao2020machining",
-    "title":"Machining accuracy detection of PCB hole by X-ray micro-CT",
+    "title":"machining accuracy detection of pcb hole by x-ray micro-ct",
     "year":2020,
-    "categories":["Image & Video data","volume","Tracking & Monitoring","Exploration & Navigation","Knowledge Externalization","Refinement & Identification","Industrial Production","Design & Development","Analysis & Feedback"]
+    "categories":["image & video data","volume","tracking & monitoring","exploration & navigation","knowledge externalization","refinement & identification","industrial production","design & development","analysis & feedback"]
   },
   {
-    "id":"Townsend2022",
-    "title":"Virtual Inspection of Additively Manufactured Parts",
+    "id":"townsend2022",
+    "title":"virtual inspection of additively manufactured parts",
     "year":2022,
-    "categories":["Image & Video data","volume","Exploration & Navigation","Knowledge Externalization","Refinement & Identification","Design & Development","Analysis & Feedback"]
+    "categories":["image & video data","volume","exploration & navigation","knowledge externalization","refinement & identification","design & development","analysis & feedback"]
   },
   {
-    "id":"Moreland2019",
-    "title":"Interactive Simulators for Steel Industry Safety Training",
+    "id":"moreland2019",
+    "title":"interactive simulators for steel industry safety training",
     "year":2019,
-    "categories":["Image & Video data","volume","Knowledge Externalization","Education & Training"]
+    "categories":["image & video data","volume","knowledge externalization","education & training"]
   },
   {
-    "id":"Satkowski2021",
-    "title":"Investigating the Impact of Real-World Environments on the Perception of 2D Visualizations in Augmented Reality ",
+    "id":"satkowski2021",
+    "title":"investigating the impact of real-world environments on the perception of 2d visualizations in augmented reality ",
     "year":2021,
-    "categories":["Image & Video data","chart","Tracking & Monitoring","Exploration & Navigation","Knowledge Externalization","Industrial Production","Analysis & Feedback"]
+    "categories":["image & video data","chart","tracking & monitoring","exploration & navigation","knowledge externalization","industrial production","analysis & feedback"]
   },
   {
-    "id":"Luca2021",
-    "title":"Locomotion Vault: the Extra Mile in Analyzing VR Locomotion Techniques",
+    "id":"luca2021",
+    "title":"locomotion vault: the extra mile in analyzing vr locomotion techniques",
     "year":2021,
-    "categories":["Image & Video data","graph","Exploration & Navigation","Knowledge Externalization","Analysis & Feedback"]
+    "categories":["image & video data","graph","exploration & navigation","knowledge externalization","analysis & feedback"]
   },
   {
-    "id":"Pretorius2011",
-    "title":"Visualization of Parameter Space for Image Analysis",
+    "id":"pretorius2011",
+    "title":"visualization of parameter space for image analysis",
     "year":2011,
-    "categories":["Image & Video data","graph","Tracking & Monitoring","Exploration & Navigation","Knowledge Externalization","Refinement & Identification","Analysis & Feedback"]
+    "categories":["image & video data","graph","tracking & monitoring","exploration & navigation","knowledge externalization","refinement & identification","analysis & feedback"]
   },
   {
-    "id":"Gkorou2017",
-    "title":"Towards Big Data Visualization for Monitoring and Diagnostics of High Volume Semiconductor Manufacturing",
+    "id":"gkorou2017",
+    "title":"towards big data visualization for monitoring and diagnostics of high volume semiconductor manufacturing",
     "year":2017,
-    "categories":["Image & Video data","chart","Tracking & Monitoring","Exploration & Navigation","Refinement & Identification","Analysis & Feedback"]
+    "categories":["image & video data","chart","tracking & monitoring","exploration & navigation","refinement & identification","analysis & feedback"]
   },
   {
-    "id":"Datta2018",
-    "title":"CommunityDiff: Visualizing Community Clustering Algorithms",
+    "id":"datta2018",
+    "title":"communitydiff: visualizing community clustering algorithms",
     "year":2018,
-    "categories":["Image & Video data","graph","chart","Exploration & Navigation","Knowledge Externalization","Analysis & Feedback"]
+    "categories":["image & video data","graph","chart","exploration & navigation","knowledge externalization","analysis & feedback"]
   },
   {
-    "id":"Becher2022",
-    "title":"Situated Visual Analysis and Live Monitoring for Manufacturing ",
+    "id":"becher2022",
+    "title":"situated visual analysis and live monitoring for manufacturing",
     "year":2022,
-    "categories":["Image & Video data","sequence","chart","volume","Tracking & Monitoring","Exploration & Navigation","Industrial Production","Analysis & Feedback"]
+    "categories":["image & video data","sequence","chart","volume","tracking & monitoring","exploration & navigation","industrial production","analysis & feedback"]
   },
   {
-    "id":"Pantforder2009",
-    "title":"Benefit and evaluation of interactive 3D process data visualization in operator training of plant manufacturing industry",
+    "id":"pantforder2009",
+    "title":"benefit and evaluation of interactive 3d process data visualization in operator training of plant manufacturing industry",
     "year":2009,
-    "categories":["Image & Video data","volume","Knowledge Externalization","Industrial Production"]
+    "categories":["image & video data","volume","knowledge externalization","industrial production"]
   },
   {
-    "id":"North2021",
-    "title":"IIoT based Augmented Reality for Factory Data Collection and Visualization",
+    "id":"north2021",
+    "title":"iiot based augmented reality for factory data collection and visualization",
     "year":2021,
-    "categories":["Image & Video data","volume","Tracking & Monitoring","Exploration & Navigation","Knowledge Externalization","Refinement & Identification","Industrial Production"]
+    "categories":["image & video data","volume","tracking & monitoring","exploration & navigation","knowledge externalization","refinement & identification","industrial production"]
   },
   {
-    "id":"Guo2021",
-    "title":"Vinci: An Intelligent Graphic Design System for Generating Advertising Posters",
+    "id":"guo2021",
+    "title":"vinci: an intelligent graphic design system for generating advertising posters",
     "year":2021,
-    "categories":["Image & Video data","volume","Knowledge Externalization","Design & Development"]
+    "categories":["image & video data","volume","knowledge externalization","design & development"]
   },
   {
-    "id":"Yoo2021",
-    "title":"Explainable artificial intelligence for manufacturing cost estimation and machining feature visualization",
+    "id":"yoo2021",
+    "title":"explainable artificial intelligence for manufacturing cost estimation and machining feature visualization",
     "year":2021,
-    "categories":["Image & Video data","volume","Tracking & Monitoring","Exploration & Navigation","Knowledge Externalization","Refinement & Identification","Industrial Production","Design & Development","Analysis & Feedback"]
+    "categories":["image & video data","volume","tracking & monitoring","exploration & navigation","knowledge externalization","refinement & identification","industrial production","design & development","analysis & feedback"]
   },
   {
-    "id":"Huettenberger2015",
-    "title":"Application of pareto sets in quality control of series production in car manufacturing",
+    "id":"huettenberger2015",
+    "title":"application of pareto sets in quality control of series production in car manufacturing",
     "year":2015,
-    "categories":["Image & Video data","volume","Tracking & Monitoring","Industrial Production","Design & Development"]
+    "categories":["image & video data","volume","tracking & monitoring","industrial production","design & development"]
   },
   {
-    "id":"Coffey2013",
-    "title":"Design by Dragging: An interface for creative forward and inverse design with simulation ensembles",
+    "id":"coffey2013",
+    "title":"design by dragging: an interface for creative forward and inverse design with simulation ensembles",
     "year":2013,
-    "categories":["Image & Video data","volume","Tracking & Monitoring","Refinement & Identification","Design & Development","Analysis & Feedback"]
+    "categories":["image & video data","volume","tracking & monitoring","refinement & identification","design & development","analysis & feedback"]
   },
-  {"id":"sun2019planningvis","title":"PlanningVis: a visual analytics approach to production planning in smart factories ","year":2019,"categories":["Tabular & text data","sequence","chart","glyph","Tracking & Monitoring","Exploration & Navigation","Knowledge Externalization","Refinement & Identification","Industrial Production","Analysis & Feedback"]},
-  {"id":"fulda2015timelinecurator","title":"TimeLineCurator: interactive authoring of visual timelines from unstructured text","year":2015,"categories":["Tabular & text data","sequence","text","chart","glyph","Tracking & Monitoring","Exploration & Navigation","Knowledge Externalization","Refinement & Identification","Analysis & Feedback"]},
-  {"id":"park2016visual","title":"Visual analytics for supply network management: System design and evaluation","year":2016,"categories":["Tabular & text data","graph","text","Exploration & Navigation","Knowledge Externalization","Analysis & Feedback"]},
-  {"id":"McNutt2021","title":"What are Table Cartograms Good for Anyway? An Algebraic Analysis","year":2021,"categories":["Tabular & text data","chart","Knowledge Externalization","Design & Development"]},
-  {"id":"Oppermann","title":"VizCommender: Computing Text-Based Similarity in Visualization Repositories for Content-Based Recommendations","year":2020,"categories":["Tabular & text data","text","chart","Tracking & Monitoring","Refinement & Identification","Analysis & Feedback"]},
-  {"id":"Sharif2014","title":"Visualisation of Knowledge Mapping for Information Systems Evaluation: A Manufacturing Context","year":2014,"categories":["Tabular & text data","graph","text","chart","Exploration & Navigation","Knowledge Externalization","Refinement & Identification","Analysis & Feedback"]},
-  {"id":"Meyer2013","title":"Visual Monitoring of Process Runs: An Application Study for Stored Procedures","year":2013,"categories":["Tabular & text data","sequence","text","chart","Tracking & Monitoring","Exploration & Navigation","Refinement & Identification","Analysis & Feedback"]},
-  {"id":"Basole2014","title":"Visual analysis of supply network risks: Insights from the electronics industry ","year":2014,"categories":["Tabular & text data","graph","chart","Refinement & Identification","Analysis & Feedback"]},
-  {"id":"Fellow2017","title":"VisFlow - Web-based Visualization Framework for Tabular Data with a Subset Flow Model","year":2017,"categories":["Tabular & text data","chart","Tracking & Monitoring","Exploration & Navigation","Refinement & Identification","Analysis & Feedback"]},
-  {"id":"Bartram2022","title":"Untidy Data: The Unreasonable Effectiveness of Tables","year":2022,"categories":["Tabular & text data","text","chart","Refinement & Identification","Design & Development"]},
-  {"id":"Blumenschein2018","title":"SMARTexplore: Simplifying High-Dimensional Data Analysis through a Table-Based Visual Analytics Approach","year":2018,"categories":["Tabular & text data","chart","Exploration & Navigation","Analysis & Feedback"]},
-  {"id":"Mei2019","title":"RSATree: Distribution-Aware Data Representation of Large-Scale Tabular Datasets for Flexible Visual Query","year":2019,"categories":["Tabular & text data","sequence","chart","Refinement & Identification","Analysis & Feedback"]},
-  {"id":"Qian2022","title":"RCDVis: Interactive Rare Category Detection on Graph Data ","year":2022,"categories":["Tabular & text data","sequence","graph","chart","Tracking & Monitoring","Exploration & Navigation","Refinement & Identification","Analysis & Feedback"]},
-  {"id":"Klammer2020","title":"A Lightweight Customized Build Chain Visualization Approach Applied in Industry","year":2020,"categories":["Tabular & text data","graph","Tracking & Monitoring","Design & Development"]},
-  {"id":"Liu2021","title":"ADVISor: Automatic Visualization Answer for Natural-Language Question on Tabular Data","year":2021,"categories":["Tabular & text data","chart","Exploration & Navigation","Knowledge Externalization","Design & Development"]},
-  {"id":"Gove","title":"Automatic Narrative Summarization for Visualizing Cyber Security Logs and Incident Reports","year":2021,"categories":["Tabular & text data","sequence","text","glyph","Tracking & Monitoring","Exploration & Navigation","Knowledge Externalization","Refinement & Identification","Industrial Production","Analysis & Feedback"]},
-  {"id":"wang2019datashot","title":"DataShot Automatic Generation of Fact Sheet from Tabular Data-annotated","year":2019,"categories":["Tabular & text data","sequence","text","chart","glyph","Exploration & Navigation","Knowledge Externalization","Design & Development"]},
-  {"id":"Wang2018","title":"A Utility-aware Visual Approach for Anonymizing Multi-attribute Tabular Data","year":2018,"categories":["Tabular & text data","sequence","text","chart","glyph","Exploration & Navigation","Knowledge Externalization","Analysis & Feedback"]},
-  {"id":"chen2017sequence","title":"Sequence Synopsis: Optimize Visual Summary of Temporal Event Data","year":2017,"categories":["Tabular & text data","sequence","chart","glyph","Tracking & Monitoring","Exploration & Navigation","Knowledge Externalization","Refinement & Identification","Industrial Production","Analysis & Feedback"]},
-  {"id":"herr2018visual","title":"Visual analytics for decomposing temporal event series of production lines ","year":2018,"categories":["Tabular & text data","sequence","chart","Tracking & Monitoring","Exploration & Navigation","Refinement & Identification","Industrial Production","Analysis & Feedback"]},
-  {"id":"Jo2014","title":"LiveGantt: interactively visualizing a large manufacturing schedule","year":2014,"categories":["Tabular & text data","sequence","chart","Tracking & Monitoring","Exploration & Navigation","Knowledge Externalization","Refinement & Identification","Analysis & Feedback"]},
-  {"id":"Tang2022","title":"A Visualization Approach for Monitoring Order Processing in E-Commerce Warehouse","year":2021,"categories":["Tabular & text data","sequence","chart","Tracking & Monitoring","Exploration & Navigation","Refinement & Identification","Industrial Production","Analysis & Feedback"]},
-  {"id":"Sharif2014","title":"Visualisation of knowledge mapping for information systems evaluation: A manufacturing context","year":2014,"categories":["Tabular & text data","graph","text","Tracking & Monitoring","Exploration & Navigation","Analysis & Feedback"]},
-  {"id":"Li2020","title":"Warehouse Vis: A Visual Analytics Approach to Facilitating Warehouse Location Selection for Business Districts","year":2020,"categories":["Tabular & text data","Image & Video data","sequence","chart","glyph","Tracking & Monitoring","Exploration & Navigation","Refinement & Identification","Analysis & Feedback"]},
-{"id":"Zhu2019","title":"Visualisation of the Digital Twin data in manufacturing by using Augmented Reality","year":2019,"categories":["Tabular & text data","Signal sensing data","Image & Video data","chart","volume","Industrial Production","Design & Development"]},
-{"id":"Fan2021","title":"A digital-twin visualized architecture for Flexible Manufacturing System","year":2021,"categories":["Tabular & text data","Signal sensing data","Image & Video data","volume","Tracking & Monitoring","Exploration & Navigation","Knowledge Externalization","Industrial Production","Analysis & Feedback"]},
-{"id":"Marconi2021","title":"An interactive resource value mapping tool to support the reduction of inefficiencies in smart manufacturing processes","year":2021,"categories":["Tabular & text data","Signal sensing  data","Image & Video data","sequence","graph","text","chart","Tracking & Monitoring","Exploration & Navigation","Knowledge Externalization","Refinement & Identification","Industrial Production","Analysis & Feedback"]},
-{"id":"lei2021toward","title":"Toward a web-based digital twin thermal power plant ","year":2021,"categories":["Tabular & text data","Image & Video data","graph","chart","volume","Tracking & Monitoring","Industrial Production","Design & Development"]},
-{"id":"wu2018visual","title":"A visual analytics approach for equipment condition monitoring in smart factories of process industry","year":2018,"categories":["Tabular & text data","Signal sensing data","Image & Video data","sequence","graph","chart","glyph","Tracking & Monitoring","Exploration & Navigation","Knowledge Externalization","Refinement & Identification","Industrial Production","Design & Development","Analysis & Feedback"]},
-{"id":"xu2016vidx","title":"ViDX: visual diagnostics of assembly line performance in smart factories","year":2017,"categories":["Tabular & text data","Signal sensing data","Image & Video data","sequence","chart","glyph","volume","Tracking & Monitoring","Exploration & Navigation","Knowledge Externalization","Refinement & Identification","Industrial Production","Analysis & Feedback"]},
-{"id":"bach2015time","title":"Time curves: folding time to visualize patterns of temporal evolution in data","year":2015,"categories":["Tabular & text data","Signal sensing data","Image & Video data","sequence","chart","Tracking & Monitoring","Exploration & Navigation","Knowledge Externalization","Refinement & Identification","Analysis & Feedback"]}
+  {"id":"sun2019planningvis","title":"planningvis: a visual analytics approach to production planning in smart factories ","year":2019,"categories":["tabular & text data","sequence","chart","glyph","tracking & monitoring","exploration & navigation","knowledge externalization","refinement & identification","industrial production","analysis & feedback"]},
+  {"id":"fulda2015timelinecurator","title":"timelinecurator: interactive authoring of visual timelines from unstructured text","year":2015,"categories":["tabular & text data","sequence","text","chart","glyph","tracking & monitoring","exploration & navigation","knowledge externalization","refinement & identification","analysis & feedback"]},
+  {"id":"park2016visual","title":"visual analytics for supply network management: system design and evaluation","year":2016,"categories":["tabular & text data","graph","text","exploration & navigation","knowledge externalization","analysis & feedback"]},
+  {"id":"mcnutt2021","title":"what are table cartograms good for anyway? an algebraic analysis","year":2021,"categories":["tabular & text data","chart","knowledge externalization","design & development"]},
+  {"id":"oppermann","title":"vizcommender: computing text-based similarity in visualization repositories for content-based recommendations","year":2020,"categories":["tabular & text data","text","chart","tracking & monitoring","refinement & identification","analysis & feedback"]},
+  {"id":"sharif2014","title":"visualisation of knowledge mapping for information systems evaluation: a manufacturing context","year":2014,"categories":["tabular & text data","graph","text","chart","exploration & navigation","knowledge externalization","refinement & identification","analysis & feedback"]},
+  {"id":"meyer2013","title":"visual monitoring of process runs: an application study for stored procedures","year":2013,"categories":["tabular & text data","sequence","text","chart","tracking & monitoring","exploration & navigation","refinement & identification","analysis & feedback"]},
+  {"id":"basole2014","title":"visual analysis of supply network risks: insights from the electronics industry ","year":2014,"categories":["tabular & text data","graph","chart","refinement & identification","analysis & feedback"]},
+  {"id":"fellow2017","title":"visflow - web-based visualization framework for tabular data with a subset flow model","year":2017,"categories":["tabular & text data","chart","tracking & monitoring","exploration & navigation","refinement & identification","analysis & feedback"]},
+  {"id":"bartram2022","title":"untidy data: the unreasonable effectiveness of tables","year":2022,"categories":["tabular & text data","text","chart","refinement & identification","design & development"]},
+  {"id":"blumenschein2018","title":"smartexplore: simplifying high-dimensional data analysis through a table-based visual analytics approach","year":2018,"categories":["tabular & text data","chart","exploration & navigation","analysis & feedback"]},
+  {"id":"mei2019","title":"rsatree: distribution-aware data representation of large-scale tabular datasets for flexible visual query","year":2019,"categories":["tabular & text data","sequence","chart","refinement & identification","analysis & feedback"]},
+  {"id":"qian2022","title":"rcdvis: interactive rare category detection on graph data ","year":2022,"categories":["tabular & text data","sequence","graph","chart","tracking & monitoring","exploration & navigation","refinement & identification","analysis & feedback"]},
+  {"id":"klammer2020","title":"a lightweight customized build chain visualization approach applied in industry","year":2020,"categories":["tabular & text data","graph","tracking & monitoring","design & development"]},
+  {"id":"liu2021","title":"advisor: automatic visualization answer for natural-language question on tabular data","year":2021,"categories":["tabular & text data","chart","exploration & navigation","knowledge externalization","design & development"]},
+  {"id":"gove","title":"automatic narrative summarization for visualizing cyber security logs and incident reports","year":2021,"categories":["tabular & text data","sequence","text","glyph","tracking & monitoring","exploration & navigation","knowledge externalization","refinement & identification","industrial production","analysis & feedback"]},
+  {"id":"wang2019datashot","title":"datashot automatic generation of fact sheet from tabular data-annotated","year":2019,"categories":["tabular & text data","sequence","text","chart","glyph","exploration & navigation","knowledge externalization","design & development"]},
+  {"id":"wang2018","title":"a utility-aware visual approach for anonymizing multi-attribute tabular data","year":2018,"categories":["tabular & text data","sequence","text","chart","glyph","exploration & navigation","knowledge externalization","analysis & feedback"]},
+  {"id":"chen2017sequence","title":"sequence synopsis: optimize visual summary of temporal event data","year":2017,"categories":["tabular & text data","sequence","chart","glyph","tracking & monitoring","exploration & navigation","knowledge externalization","refinement & identification","industrial production","analysis & feedback"]},
+  {"id":"herr2018visual","title":"visual analytics for decomposing temporal event series of production lines ","year":2018,"categories":["tabular & text data","sequence","chart","tracking & monitoring","exploration & navigation","refinement & identification","industrial production","analysis & feedback"]},
+  {"id":"jo2014","title":"livegantt: interactively visualizing a large manufacturing schedule","year":2014,"categories":["tabular & text data","sequence","chart","tracking & monitoring","exploration & navigation","knowledge externalization","refinement & identification","analysis & feedback"]},
+  {"id":"tang2022","title":"a visualization approach for monitoring order processing in e-commerce warehouse","year":2021,"categories":["tabular & text data","sequence","chart","tracking & monitoring","exploration & navigation","refinement & identification","industrial production","analysis & feedback"]},
+  {"id":"sharif2014","title":"visualisation of knowledge mapping for information systems evaluation: a manufacturing context","year":2014,"categories":["tabular & text data","graph","text","tracking & monitoring","exploration & navigation","analysis & feedback"]},
+  {"id":"li2020","title":"warehouse vis: a visual analytics approach to facilitating warehouse location selection for business districts","year":2020,"categories":["tabular & text data","image & video data","sequence","chart","glyph","tracking & monitoring","exploration & navigation","refinement & identification","analysis & feedback"]},
+{"id":"zhu2019","title":"visualisation of the digital twin data in manufacturing by using augmented reality","year":2019,"categories":["tabular & text data","signal sensing data","image & video data","chart","volume","industrial production","design & development"]},
+{"id":"fan2021","title":"a digital-twin visualized architecture for flexible manufacturing system","year":2021,"categories":["tabular & text data","signal sensing data","image & video data","volume","tracking & monitoring","exploration & navigation","knowledge externalization","industrial production","analysis & feedback"]},
+{"id":"marconi2021","title":"an interactive resource value mapping tool to support the reduction of inefficiencies in smart manufacturing processes","year":2021,"categories":["tabular & text data","signal sensing  data","image & video data","sequence","graph","text","chart","tracking & monitoring","exploration & navigation","knowledge externalization","refinement & identification","industrial production","analysis & feedback"]},
+{"id":"lei2021toward","title":"toward a web-based digital twin thermal power plant ","year":2021,"categories":["tabular & text data","image & video data","graph","chart","volume","tracking & monitoring","industrial production","design & development"]},
+{"id":"wu2018visual","title":"a visual analytics approach for equipment condition monitoring in smart factories of process industry","year":2018,"categories":["tabular & text data","signal sensing data","image & video data","sequence","graph","chart","glyph","tracking & monitoring","exploration & navigation","knowledge externalization","refinement & identification","industrial production","design & development","analysis & feedback"]},
+{"id":"xu2016vidx","title":"vidx: visual diagnostics of assembly line performance in smart factories","year":2017,"categories":["tabular & text data","signal sensing data","image & video data","sequence","chart","glyph","volume","tracking & monitoring","exploration & navigation","knowledge externalization","refinement & identification","industrial production","analysis & feedback"]},
+{"id":"bach2015time","title":"time curves: folding time to visualize patterns of temporal evolution in data","year":2015,"categories":["tabular & text data","signal sensing data","image & video data","sequence","chart","tracking & monitoring","exploration & navigation","knowledge externalization","refinement & identification","analysis & feedback"]}
 ]

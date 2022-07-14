@@ -1,35 +1,35 @@
 [
     {
       "type": "category",
-      "title": "Data Type",
-      "description": "Data Type",
-      "childrenDescription": "Data Type:",
+      "title": "data type",
+      "description": "data type",
+      "childrendescription": "data type:",
       "entries": [
         {
           "type": "category-entry",
-          "title": "Tabular & text data",
-          "description": "Tabular & text data",
-          "content": "T&T"
+          "title": "tabular & text data",
+          "description": "tabular & text data",
+          "content": "t&t"
         },
         {
           "type": "category-entry",
-          "title": "Signal sensing  data",
-          "description": "Signal sensing  data",
-          "content": "SS"
+          "title": "signal sensing data",
+          "description": "signal sensing data",
+          "content": "ss"
         },
         {
           "type": "category-entry",
-          "title": "Image & Video data",
-          "description": "Image & Video data",
-          "content": "I&V"
+          "title": "image & video data",
+          "description": "image & video data",
+          "content": "i&v"
         }
       ]
     },
     {
         "type": "category",
-        "title": "Visualization Technique",
-        "description": "Visualization Technique",
-        "childrenDescription": "Visualization Technique:",
+        "title": "visualization technique",
+        "description": "visualization technique",
+        "childrendescription": "visualization technique:",
         "entries": [
           {
             "type": "category-entry",
@@ -71,65 +71,65 @@
       },
       {
         "type": "category",
-        "title": "Interactive Analysis Methods",
-        "description": "Interactive Analysis Methods",
-        "childrenDescription": "Interactive Analysis Methods:",
+        "title": "interactive analysis methods",
+        "description": "interactive analysis methods",
+        "childrendescription": "interactive analysis methods:",
         "entries": [
           {
             "type": "category-entry",
-            "title": "Tracking & Monitoring",
-            "description": "Tracking & Monitoring",
-            "content": "Tracking & Monitoring"
+            "title": "tracking & monitoring",
+            "description": "tracking & monitoring",
+            "content": "tracking & monitoring"
           },
           {
             "type": "category-entry",
-            "title": "Exploration & Navigation",
-            "description": "Exploration & Navigation",
-            "content": "Exploration & Navigation"
+            "title": "exploration & navigation",
+            "description": "exploration & navigation",
+            "content": "exploration & navigation"
           },
           {
             "type": "category-entry",
-            "title": "Knowledge Externalization",
-            "description": "Knowledge Externalization",
-            "content": "Knowledge Externalization"
+            "title": "knowledge externalization",
+            "description": "knowledge externalization",
+            "content": "knowledge externalization"
           },
           {
             "type": "category-entry",
-            "title": "Refinement & Identification",
-            "description": "Refinement & Identification",
-            "content": "Refinement & Identification"
+            "title": "refinement & identification",
+            "description": "refinement & identification",
+            "content": "refinement & identification"
           }
         ]
       },
       {
         "type": "category",
-        "title": "Application Areas",
-        "description": "Applications Areas",
-        "childrenDescription": "Applications Areas:",
+        "title": "application areas",
+        "description": "applications areas",
+        "childrendescription": "applications areas:",
         "entries": [
           {
             "type": "category-entry",
-            "title": "Design & Development",
-            "description": "Design & Development",
-            "content": "Design & Development"
+            "title": "design & development",
+            "description": "design & development",
+            "content": "design & development"
           },
           {
             "type": "category-entry",
-            "title": "Production & Testing",
-            "description": "Production & Testing",
-            "content": "Production & Testing"
+            "title": "production & testing",
+            "description": "production & testing",
+            "content": "production & testing"
           },
           {
             "type": "category-entry",
-            "title": "Education & Training",
-            "description": "Education & Training",
-            "content": "Education & Training"
+            "title": "education & training",
+            "description": "education & training",
+            "content": "education & training"
           },
           {
             "type": "category-entry",
-            "title": "Analysis & Feedback",
-            "description": "Analysis & Feedback",
-            "content": "Analysis & Feedback"
+            "title": "analysis & feedback",
+            "description": "analysis & feedback",
+            "content": "analysis & feedback"
           }
         ]
       }
