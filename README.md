@@ -4,7 +4,7 @@ Yunchao Wang, Zihao Zhu, Lei Wang, Guodao Sun, Ronghua Liang
 
 This github repo hosts a web-based interactive browser of our survey paper on "MMDM", which is accepted by ChinaVis 2022.
 
-This survey is published at Visual Informaticvs, link.
+This survey is published at Visual Informaticvs, [link](https://www.sciencedirect.com/science/article/pii/S2468502X22000912).
 
 Online interactive browser: https://zjutvis.github.io/MMDM/
 
